@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj": {}
+    "C:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj": {}
   },
   "projects": {
-    "c:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj": {
+    "C:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
+        "projectUniqueName": "C:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
         "projectName": "SpendSmart",
-        "projectPath": "c:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
+        "projectPath": "C:\\.NET\\SpendSmart\\SpendSmart\\SpendSmart.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "c:\\.NET\\SpendSmart\\SpendSmart\\obj\\",
+        "outputPath": "C:\\.NET\\SpendSmart\\SpendSmart\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
